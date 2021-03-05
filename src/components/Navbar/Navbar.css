@@ -1,0 +1,47 @@
+.background-nav{
+    background-color: whitesmoke;
+    color: black;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.background-nav h4{
+    font-size: 15px;
+    font-weight: 200;
+}
+
+#container-nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.background-nav-2{
+    background-color: gainsboro;
+    color: black;
+    height: 80px;
+    display: flex;
+    align-items: center;
+}
+
+#container-nav-bot{
+    color: black;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.container-icons{
+    display: flex;
+    flex-direction: column;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.container-icons img{
+    height: 30px
+}
+

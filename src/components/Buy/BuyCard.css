@@ -1,0 +1,24 @@
+
+
+.payment {
+    margin-top: 20px;
+  }
+  .payment__input{
+    width: 250px;
+    height: 40px;
+    margin: 10px;
+    /* border-radius: 5px; */
+    border-radius: 0;
+    border: 0;
+    border-bottom: 1px solid black;
+  }
+  .pay__btn{
+    border-color: aqua;
+    width: 150px;
+    height: 40px;
+    border-radius: 0;
+  }
+  .img{
+      height: 80px;
+      width: 100px;
+  }
